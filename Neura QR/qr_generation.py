@@ -1,7 +1,7 @@
 import qrcode
 
 # 1. Define the link you want to attach
-link_url = "index.html"
+link_url = "https://github.com/nileshc2007/qr-code-generation-/blob/main/Neura%20QR/index.html"
 
 # 2. Configure the QR code properties
 qr = qrcode.QRCode(
